@@ -1,0 +1,7 @@
+.claude/settings.local.json
+.claude/.cc-writes/
+.DS_Store
+
+# Local working files, not published
+*.pdf
+archive/
